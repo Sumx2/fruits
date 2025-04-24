@@ -1,1 +1,2 @@
 "file5 created using cmd" 
+"testing stash command"
