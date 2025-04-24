@@ -1,2 +1,5 @@
 "file4 created using cmd" 
 "hello world" 
+"testing merging conflicts in 2 branches" 
+
+
